@@ -1,4 +1,4 @@
-//rotation by one by one
+//rotating one element at a time
 //right rotation
 #include<stdio.h>
 #include<stdlib.h>
