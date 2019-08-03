@@ -1,5 +1,5 @@
-
-//right rotation by n in an array
+//rotating one element at a time
+//right rotation
 #include<stdio.h>
 #include<stdlib.h>
 int main(int argc,const char * argv[])
